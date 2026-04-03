@@ -97,14 +97,3 @@ The project also analyzes how different network topologies influence convergence
 Visualize results using:
 
 plot_topology_effect
-Applications
-Distributed AI systems
-Large-scale data processing
-Edge computing and IoT
-Federated learning environments
-Authors
-Subash B
-Team Members
-Conclusion
-
-This project demonstrates how distributed optimization techniques like ADMM can efficiently train machine learning models while highlighting the critical role of network topology in system performance.
