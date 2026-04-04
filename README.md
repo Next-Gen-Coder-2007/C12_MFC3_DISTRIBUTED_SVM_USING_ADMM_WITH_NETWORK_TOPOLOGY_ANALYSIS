@@ -78,23 +78,5 @@ The project also analyzes how different network topologies influence convergence
 - Efficient graph structures reduce communication overhead  
 - Distributed approach scales better than centralized training  
 
----
-
-## Future Enhancements
-- Integrate Flask and React dashboard for visualization  
-- Extend to deep learning models (distributed neural networks)  
-- Real-time network simulation and monitoring  
-- Deploy as a cloud-based distributed ML system  
-
----
-
-## How to Run
-1. Open MATLAB  
-2. Load the project folder  
-3. Run the main script:
-   ```matlab
-   consensus_admm_svm
-
-Visualize results using:
 
 plot_topology_effect
