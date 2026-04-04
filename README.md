@@ -12,7 +12,7 @@ The project also analyzes how different network topologies influence convergence
 - Enable parallel computation across multiple nodes  
 - Study the impact of network topology on convergence  
 - Evaluate performance using real-world benchmark datasets  
-- Analyze spectral properties (e.g., Laplacian, λ₂) of graphs  
+- Analyze spectral properties (e.g. Laplacian, λ₂) of graphs  
 
 ---
 
