@@ -36,6 +36,7 @@ The project also analyzes how different network topologies influence convergence
 
 ## Project Structure
 
+```
 ├── consensus_admm_svm.m # Core distributed SVM using ADMM
 ├── gridsearch_cv_admm_svm.m # Hyperparameter tuning
 ├── predict_svm_rbf.m # Prediction using trained SVM
@@ -44,7 +45,7 @@ The project also analyzes how different network topologies influence convergence
 ├── plot_topology_effect.m # Visualization of topology impact
 ├── datasets/ # Benchmark datasets
 └── results/ # Output graphs and analysis
-
+```
 
 ---
 
